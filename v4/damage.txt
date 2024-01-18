@@ -1,6 +1,0 @@
-Bullet - 1
-Shutgun - 0.25
-Flamethrower - 0.5
-Graneds - 2.5
-Rocketlauncher - 5
-Explosion - 0.2
